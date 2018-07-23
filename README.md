@@ -1,0 +1,2 @@
+# ThreadSecurity
+iOS中多线程中NSThread的使用以及对NSThread的改进，采取的是加锁机制。
